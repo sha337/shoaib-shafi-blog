@@ -165,8 +165,8 @@ body, html {
 
 .site-footer{
     width: 940px;
-    margin: 45px auto 0 auto;
-    padding: 25px 0;
+    margin: 30px auto 0 auto;
+    padding: 20px 0;
     text-align: center;
 }
 
@@ -330,3 +330,18 @@ button{
     
 }
 
+
+a .icons{
+    color: grey;
+    display: block; 
+    text-align: center;
+    padding: 15px 0;
+    text-decoration: none;
+}
+a .icons:hover{
+    color: rgb(29, 161, 242);
+}
+
+a:hover{
+    text-decoration:none;
+}
