@@ -129,7 +129,7 @@ body, html {
 
 .page-header-title {
     margin-bottom: 0;
-    font-size: 22px;
+    font-size: 19px;
     line-height: 26px;
     letter-spacing: 5px;
     text-transform: uppercase;
@@ -323,12 +323,12 @@ button{
     }
 }
 
-@media only screen and (min-width: 786px){
+/*@media only screen and (min-width: 786px){
     .col-lg-2{
         max-width: 11.11%;
     }
     
-}
+}*/
 
 
 a .icons{
