@@ -227,13 +227,13 @@ button{
 
 .about-text h1{
     text-align: center;
-    font-family: 'Karla', sans-serif;
+    font-family: 'Prata', serif;
     letter-spacing: 10px;
 }
 
 .about-text p{
     text-align: left;
-    font-family: 'Karla', sans-serif;
+    font-family: 'Prata', serif;
     margin: auto 15% auto 15%;
     letter-spacing: 1px;
     font-size: 22px;
@@ -309,7 +309,7 @@ button{
     }
     .about-text h1{
         text-align: left;
-        font-family: 'Karla', sans-serif;
+        font-family: 'Prata', serif;
         letter-spacing: 5px;
     }
     .about-text p{
